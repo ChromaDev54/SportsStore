@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C6B09A9-8F26-AAE3-4362-294BA0CBDA39}|SportsStore.Tests\\SportsStore.Tests.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore.tests\\navigationmenuviewcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6B09A9-8F26-AAE3-4362-294BA0CBDA39}|SportsStore.Tests\\SportsStore.Tests.csproj|solutionrelative:sportsstore.tests\\navigationmenuviewcomponenttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C6B09A9-8F26-AAE3-4362-294BA0CBDA39}|SportsStore.Tests\\SportsStore.Tests.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C6B09A9-8F26-AAE3-4362-294BA0CBDA39}|SportsStore.Tests\\SportsStore.Tests.csproj|solutionrelative:sportsstore.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|d:\\programmation\\freeman\\sportsstore\\sportsstore\\sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9F714FE-A7E5-EBD6-E0E7-60E7995FE079}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Program.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
-              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Program.cs",
-              "RelativeToolTip": "SportsStore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Title": "NavigationMenuViewComponentTest.cs",
+              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore.Tests\\NavigationMenuViewComponentTest.cs",
+              "RelativeDocumentMoniker": "SportsStore.Tests\\NavigationMenuViewComponentTest.cs",
+              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore.Tests\\NavigationMenuViewComponentTest.cs",
+              "RelativeToolTip": "SportsStore.Tests\\NavigationMenuViewComponentTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:32:55.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeControllerTests.cs",
-              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore.Tests\\HomeControllerTests.cs",
-              "RelativeDocumentMoniker": "SportsStore.Tests\\HomeControllerTests.cs",
-              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore.Tests\\HomeControllerTests.cs",
-              "RelativeToolTip": "SportsStore.Tests\\HomeControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:20:05.998Z",
+              "WhenOpened": "2026-01-05T09:14:03.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SportsStore\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Program.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
+              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Program.cs",
+              "RelativeToolTip": "SportsStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:04:59.822Z",
+              "WhenOpened": "2026-01-05T07:02:48.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductsListViewModel.cs",
-              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T06:47:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigationMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ToolTip": "D:\\Programmation\\Freeman\\SportsStore\\SportsStore\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-04T09:03:28.279Z",
+              "WhenOpened": "2026-01-05T06:44:51.774Z",
               "EditorCaption": ""
             }
           ]
